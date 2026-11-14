@@ -58,7 +58,7 @@
      "fixed": true,
      "hasQty": true,
      "qty": 2,
-     "price": 30
+     "price": ""
     },
     {
      "id": "lift",
@@ -90,7 +90,7 @@
     }
    ],
    "paid": {},
-   "updated": "2026-11-14T06:53:20.806Z"
+   "updated": "2026-11-14T07:00:44.868Z"
   }
  }
 }
