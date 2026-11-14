@@ -49,6 +49,48 @@
     "7": "2026-11-14"
    },
    "updated": "2026-11-14T06:52:39.175Z"
+  },
+  "2026-11": {
+   "items": [
+    {
+     "id": "clean",
+     "name": "Почистване",
+     "fixed": true,
+     "hasQty": true,
+     "qty": 2,
+     "price": 30
+    },
+    {
+     "id": "lift",
+     "name": "Асансьор",
+     "fixed": true,
+     "qty": 1,
+     "price": 60
+    },
+    {
+     "id": "power",
+     "name": "Ток (общи части)",
+     "fixed": true,
+     "qty": 1,
+     "price": ""
+    },
+    {
+     "id": "liftpower",
+     "name": "Ток асансьор",
+     "fixed": true,
+     "qty": 1,
+     "price": ""
+    },
+    {
+     "id": "other",
+     "name": "Други Иво и серко ",
+     "fixed": false,
+     "qty": 1,
+     "price": ""
+    }
+   ],
+   "paid": {},
+   "updated": "2026-11-14T06:53:16.909Z"
   }
  }
 }
