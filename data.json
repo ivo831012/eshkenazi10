@@ -1,0 +1,46 @@
+{
+ "months": {
+  "2026-10": {
+   "items": [
+    {
+     "id": "clean",
+     "name": "Почистване",
+     "fixed": true,
+     "hasQty": true,
+     "qty": 2,
+     "price": 30
+    },
+    {
+     "id": "lift",
+     "name": "Асансьор",
+     "fixed": true,
+     "qty": 1,
+     "price": 60
+    },
+    {
+     "id": "power",
+     "name": "Ток (общи части)",
+     "fixed": true,
+     "qty": 1,
+     "price": "36"
+    },
+    {
+     "id": "liftpower",
+     "name": "Ток асансьор",
+     "fixed": true,
+     "qty": 1,
+     "price": ""
+    },
+    {
+     "id": "other",
+     "name": "Други",
+     "fixed": false,
+     "qty": 1,
+     "price": ""
+    }
+   ],
+   "paid": {},
+   "updated": "2026-11-14T06:47:14.129Z"
+  }
+ }
+}
